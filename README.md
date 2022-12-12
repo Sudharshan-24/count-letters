@@ -1,1 +1,2 @@
-JavaScript, Counting letters with for-in and for-of loops.
+# JavaScript
+Counting letters with for-in and for-of loops
